@@ -1,0 +1,9 @@
+streamlit
+pandas
+groq
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+sentence-transformers
